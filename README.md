@@ -1,27 +1,27 @@
-# Kurohana
+# Kurohana 💜
 
-## Overview
+## Overview ℹ
 Kurohana is a production-grade, multipurpose Discord bot built with the modern and performant NetCord library in C#. Designed for aesthetic quality and powerful functionality, it aims to provide Discord communities with advanced server customization, robust moderation, secure management, and an engaging economy system.
 
-## Features
-Modern C# Architecture: Built using NetCord, following clean, maintainable design principles.
+## Features 🧪
+- Modern C# Architecture: Built using NetCord, following clean, maintainable design principles. 🛠
 
-Customizable Economy System: Encourage member engagement with a fully configurable economy.
+- Customizable Economy System: Encourage member engagement with a fully configurable economy. 💸
 
-Server Personalization: Offers detailed server customization options tailored to your community’s needs.
+-  Server Personalization: Offers detailed server customization options tailored to your community’s needs. 🎨
 
-Moderation & Security Tools: Includes efficient tools to keep your server safe and organized.
+- Moderation & Security Tools: Includes efficient tools to keep your server safe and organized. 🔐
 
-Aesthetic UX: Commands and responses are formatted to be visually pleasing, making interaction enjoyable.
+- Aesthetic UX: Commands and responses are formatted to be visually pleasing, making interaction enjoyable. 🖥
 
-Extensible Design: Built to scale, making it easy to add more features over time.
+- Extensible Design: Built to scale, making it easy to add more features over time. 🔨📈
 
-## Setup & Installation
-Requirements
+## Setup & Installation 🔧⚙
+### Requirements
 - .NET 8.0+ SDK
 - A Discord Bot Token from the Discord Developer Portal
 
-### Getting Started
+### Getting Started ✨
 Clone the repository:
 
 ```bash
@@ -45,7 +45,7 @@ dotnet build
 dotnet run
 ```
 
-## Development Status
+## Development Status ℹ
 The bot currently includes a foundational set of commands and is being actively developed with focus on:
 
 - Enhanced economy mechanics
@@ -56,5 +56,5 @@ The bot currently includes a foundational set of commands and is being actively 
 
 - Performance optimization
 
-# License
+# License 📜
 This project is open-source under the MIT License. Feel free to fork and build upon it!
