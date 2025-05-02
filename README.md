@@ -26,7 +26,7 @@ Kurohana is a production-grade, multipurpose Discord bot built with the modern a
 Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/your-bot-name.git
+git clone https://github.com/donoteatmydimsum/Kurohana.git
 cd your-bot-name
 ```
 
