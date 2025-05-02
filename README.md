@@ -20,6 +20,7 @@ Kurohana is a production-grade, multipurpose Discord bot built with the modern a
 ### Requirements
 - .NET 8.0+ SDK
 - A Discord Bot Token from the Discord Developer Portal
+- NetCord and other important libraries in codebase (can get via NuGet)
 
 ### Getting Started ✨
 Clone the repository:
