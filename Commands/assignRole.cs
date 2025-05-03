@@ -81,7 +81,7 @@ namespace Kurohana.Commands
                     return;
                 }
 
-                await TargetUser.ModifyAsync(opts => opts.AddRoleIds(role.Id));
+                await TargetUser.AddRoleAsync(role.Id);
                 await interaction.ModifyResponseAsync(m => m.Content = $"> ✅ <@&{role.Id}> has been assigned to <@{TargetUser.Id}> successfully!");
                 return;
             }
