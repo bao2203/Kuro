@@ -1,4 +1,3 @@
-﻿using System.ComponentModel.Design;
 using Kurohana.Helpers;
 using NetCord;
 using NetCord.Gateway.LatencyTimers;
