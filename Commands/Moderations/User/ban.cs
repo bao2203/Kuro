@@ -3,7 +3,7 @@ using NetCord;
 using NetCord.Rest;
 using Kurohana.Helpers;
 
-namespace Kurohana.Commands.Moderation.UserSlashCommands
+namespace Kurohana.Commands.Moderations.User
 {
     public class Ban : ApplicationCommandModule<ApplicationCommandContext>
     {

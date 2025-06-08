@@ -1,4 +1,5 @@
 ﻿using Microsoft.Extensions.Logging;
+using System.Threading.Channels;
 
 namespace Kurohana.Helpers
 {

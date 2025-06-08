@@ -1,7 +1,7 @@
 ﻿using Kurohana.Helpers;
 using Microsoft.Extensions.Logging;
 
-namespace Kurohana
+namespace Kurohana.Services
 {
     public class BotServices
     {

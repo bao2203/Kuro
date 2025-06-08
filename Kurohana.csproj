@@ -10,8 +10,10 @@
   <ItemGroup>
     <PackageReference Include="Humanizer" Version="2.14.1" />
     <PackageReference Include="Microsoft.Extensions.Configuration" Version="9.0.4" />
-    <PackageReference Include="Microsoft.Extensions.DependencyInjection" Version="9.0.4" />
-    <PackageReference Include="Microsoft.Extensions.Logging" Version="9.0.4" />
+    <PackageReference Include="Microsoft.Extensions.DependencyInjection" Version="9.0.5" />
+    <PackageReference Include="Microsoft.Extensions.Logging" Version="9.0.5" />
+    <PackageReference Include="MongoDB.Bson" Version="3.4.0" />
+    <PackageReference Include="MongoDB.Driver" Version="3.4.0" />
     <PackageReference Include="NetCord" Version="1.0.0-alpha.365" />
     <PackageReference Include="NetCord.Hosting" Version="1.0.0-alpha.365" />
     <PackageReference Include="NetCord.Hosting.AspNetCore" Version="1.0.0-alpha.365" />
@@ -23,6 +25,11 @@
     <None Update="appsettings.json">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </None>
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="Commands\Moderations\Automods\" />
+    <Folder Include="Commands\Moderations\Utility\" />
   </ItemGroup>
 
 </Project>

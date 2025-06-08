@@ -6,6 +6,7 @@ using NetCord.Hosting.Services;
 using NetCord.Gateway;
 using Microsoft.Extensions.DependencyInjection;
 using Kurohana.Helpers;
+using Kurohana.Services;
 
 namespace Kurohana
 {

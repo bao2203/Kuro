@@ -3,7 +3,7 @@ using NetCord;
 using NetCord.Rest;
 using NetCord.Services.ApplicationCommands;
 
-namespace Kurohana.Commands.Moderation.UserSlashCommands
+namespace Kurohana.Commands.Moderations.User
 {
     public class Kick : ApplicationCommandModule<ApplicationCommandContext>
     {

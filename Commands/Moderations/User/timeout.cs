@@ -4,7 +4,7 @@ using NetCord.Rest;
 using NetCord.Services.ApplicationCommands;
 using Humanizer;
 
-namespace Kurohana.Commands
+namespace Kurohana.Commands.Moderations.User
 {
     public class Timeout : ApplicationCommandModule<ApplicationCommandContext>
     {

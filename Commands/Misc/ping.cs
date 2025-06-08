@@ -4,7 +4,7 @@ using NetCord.Gateway.LatencyTimers;
 using NetCord.Rest;
 using NetCord.Services.ApplicationCommands;
 
-namespace Kurohana.Commands
+namespace Kurohana.Commands.Misc
 {
     public class Ping : ApplicationCommandModule<ApplicationCommandContext>
     {

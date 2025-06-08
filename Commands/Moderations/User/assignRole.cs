@@ -3,7 +3,7 @@ using NetCord;
 using NetCord.Rest;
 using NetCord.Services.ApplicationCommands;
 
-namespace Kurohana.Commands
+namespace Kurohana.Commands.Moderations.User
 {
     public class AssignRole : ApplicationCommandModule<ApplicationCommandContext>
     {
