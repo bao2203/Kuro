@@ -1,4 +1,4 @@
-# Kurohana 💜
+# Kuro ☂️
 
 ## Overview ℹ
 Kurohana is a production-grade, multipurpose Discord bot built with the modern and performant NetCord library in C#. Designed for aesthetic quality and powerful functionality, it aims to provide Discord communities with advanced server customization, robust moderation, secure management, and an engaging economy system.
