@@ -422,3 +422,4 @@ publish/
 # Sensitive settings
 appsettings.json
 /Kurohana.sln
+/Assets/Economy
